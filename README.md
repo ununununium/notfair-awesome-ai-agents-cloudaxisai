@@ -104,6 +104,7 @@ Entries are **tools that plan, use tools, or run multi-step workflows** — not 
 
 ## Further reading
 
+- [Awesome AI agents list (2026) — blog post](https://cloudybot.ai/blog/awesome-ai-agents-list-2026) — Why this list exists, how we maintain it, and how it fits the ecosystem.
 - [What Is an AI Agent?](https://cloudybot.ai/blog/what-is-an-ai-agent) — Technical explainer: agent loop, tools, memory, and how agents differ from chatbots.
 - [Cloud browser automation](https://cloudybot.ai/blog/cloud-browser-ai-automation) — How cloud browsers power AI agents in production.
 
