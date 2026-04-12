@@ -79,6 +79,7 @@ Entries are **tools that plan, use tools, or run multi-step workflows** — not 
 - [11x](https://www.11x.ai) — Digital worker-style agents for outbound and pipeline tasks (positioning varies; verify for your stack).
 - [Apollo.io](https://www.apollo.io) — Sales engagement platform with AI-assisted research, sequences, and enrichment.
 - [Clay](https://www.clay.com) — GTM orchestration with enrichment and AI columns for outbound research at scale.
+- [toprank](https://github.com/nowork-studio/toprank) — Claude Code plugin for SEO and Google Ads workflows, including search-console audits, schema markup, bid adjustments, and CMS publishing.
 
 ## Customer support and service
 
