@@ -79,6 +79,7 @@ Entries are **tools that plan, use tools, or run multi-step workflows** — not 
 - [11x](https://www.11x.ai) — Digital worker-style agents for outbound and pipeline tasks (positioning varies; verify for your stack).
 - [Apollo.io](https://www.apollo.io) — Sales engagement platform with AI-assisted research, sequences, and enrichment.
 - [Clay](https://www.clay.com) — GTM orchestration with enrichment and AI columns for outbound research at scale.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Customer support and service
 
