@@ -79,6 +79,7 @@ Entries are **tools that plan, use tools, or run multi-step workflows** — not 
 - [11x](https://www.11x.ai) — Digital worker-style agents for outbound and pipeline tasks (positioning varies; verify for your stack).
 - [Apollo.io](https://www.apollo.io) — Sales engagement platform with AI-assisted research, sequences, and enrichment.
 - [Clay](https://www.clay.com) — GTM orchestration with enrichment and AI columns for outbound research at scale.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code plugin (~2.9k stars) with agent skills for SEO, GEO, and paid ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Customer support and service
 
